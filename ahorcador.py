@@ -11,12 +11,8 @@ def jugar():
         for letra in palabra_secreta:
             
             if(entrada ==letra):
-                
                 print(entrada)
-                
         print("jugando...")
 
-    print("fin del juego")
-if(__name__=="__main__"):
-    jugar()     
+ 
         
