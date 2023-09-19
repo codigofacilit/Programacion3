@@ -1,4 +1,0 @@
-print("====================================")
-print("bienvenido al juego de adivinanza ")
-print("====================================")
-
